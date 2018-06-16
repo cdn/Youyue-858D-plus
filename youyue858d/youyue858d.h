@@ -13,6 +13,7 @@
  *
  * http://dangerousprototypes.com/2014/03/01/app-note-fan-health-monitoring-and-the-mic502/
  * http://www.micrel.com/_PDF/App-Notes/an-34.pdf
+ * http://web.archive.org/web/20151224060448/http://www.micrel.com:80/_PDF/App-Notes/an-34.pdf
  *
  */
 
